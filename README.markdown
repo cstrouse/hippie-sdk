@@ -1,1 +1,1 @@
-A work in progress.  So far it works fine but could definitely be more usable.
+Hippie is a simple wrapper around the Hipchat JSON API that I wrote to show a friend how to go about writing a simple SDK.  It's a work in progress.  So far it works fine but could definitely be more usable.
